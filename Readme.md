@@ -1,0 +1,1 @@
+Even if your project seems simple, README provides essential information for users to understand what your project does, how to use it, and any other relevant details. It shows that you care about documentation and helps users navigate your project more effectively.
